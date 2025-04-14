@@ -1,0 +1,55 @@
+h1{
+    text-align: center;
+    border: 2px solid red;
+    border-radius: 30px;
+    background-color: rgb(117, 117, 245);
+}
+.n1{
+    color: rgb(7, 7, 7);
+    background-color: yellow;
+}
+
+.n2{
+    color: red;
+}
+
+h3{
+    color: green;
+}
+h2{
+    color: green;
+    background-color: yellow;
+    text-align: center;
+}
+.n3{
+    color: green;
+}
+input{
+    width: 100%;
+}
+.n4{
+    color: rgb(239, 238, 238);
+    background-color: rgb(111, 111, 239);
+    
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+.n5{
+    color: aliceblue;
+    background-color: green;
+    
+}
+.n6{
+    color: aliceblue;
+    background-color: blue;
+}
+.n7{
+    color: aliceblue;
+    background-color: red;
+}
+.n8{
+    color: aliceblue;
+    background-color: black;
+}
